@@ -1,6 +1,6 @@
 # DLSS5 神经渲染加载工具
 
-🌍 [English](./README.md) | **简体中文**
+🌍 [English](./README.md) | **简体中文** | [🎮 已测试游戏](./TESTED_GAMES.md)
 
 即插即用 DLSS5 / DLSSNR 加载器。支持帧生成、原生矢量，可以获得稳定，高性能的DLSS5体验，理论上兼容大部分dx12/dx11游戏
 视频：https://www.bilibili.com/video/BV1FDtz6SEXF
@@ -52,14 +52,9 @@ https://www.bilibili.com/video/BV1AubL6WEKe
 
 ## 支持游戏
 
-已测试：
+已实测 13 款游戏（RE 引擎 + 其他），完整中英双语列表见 **[已测试游戏](./TESTED_GAMES.md)**。
 
-- 鬼武者（Onimusha: Way of the Sword）
-- 生化危机9（RESIDENT EVIL requiem）
-- 街霸6（Street Fighter 6）
-- 怪物猎人荒野（Monster Hunter Wilds）
-
-其它 DX12 / DX11 游戏理论上也能用（另测过：死亡搁浅2、古墓丽影）。
+其它 DX12 / DX11 游戏理论上也能用。
 
 ## 已知问题
 
