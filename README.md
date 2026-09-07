@@ -1,6 +1,6 @@
 # DLSS5 Neural Rendering Load Tool
 
-🎉 **English** | [简体中文](./README_ZH.md)
+🎉 **English** | [简体中文](./README_ZH.md) | [🎮 Tested Games](./TESTED_GAMES.md)
 
 Plug‑and‑play DLSS5 / DLSSNR Loader. Featuring Frame Generation and native motion‑vector support, it delivers a stable, high‑performance DLSS5 experience. Theoretically compatible with most DX12 / DX11 games.
 
@@ -53,14 +53,9 @@ Plug‑and‑play DLSS5 / DLSSNR Loader. Featuring Frame Generation and native m
 
 ## Supported games
 
-Tested on:
+Tested & verified on 13 titles (RE Engine + more) — see the **[Tested Games](./TESTED_GAMES.md)** page for the full bilingual list.
 
-- Onimusha: Way of the Sword
-- RESIDENT EVIL requiem
-- Street Fighter 6
-- Monster Hunter Wilds
-
-Other DX12 / DX11 games should work in theory (also tested: Death Stranding 2, Tomb Raider).
+Other DX12 / DX11 games should work in theory.
 
 ## Known issues
 
