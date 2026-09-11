@@ -3,6 +3,7 @@
 🎉 **English** | [简体中文](./README_ZH.md) | [🎮 Tested Games](./TESTED_GAMES.md)
 
 Plug‑and‑play DLSS5 / DLSSNR Loader. Featuring Frame Generation and native motion‑vector support, it delivers a stable, high‑performance DLSS5 experience. Theoretically compatible with most DX12 / DX11 games.
+A more convenient, portable and feature-rich DLSS5 loader built upon this mod.： https://github.com/LCPD15/DXL
 
 ## Features
 
