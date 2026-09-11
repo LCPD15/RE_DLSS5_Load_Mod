@@ -5,6 +5,7 @@
 即插即用 DLSS5 / DLSSNR 加载器。支持帧生成、原生矢量，可以获得稳定，高性能的DLSS5体验，理论上兼容大部分dx12/dx11游戏
 视频：https://www.bilibili.com/video/BV1FDtz6SEXF
 https://www.bilibili.com/video/BV1AubL6WEKe
+基于此mod制作的更方便，无需安装，功能更强的DLSS5加载器：https://github.com/LCPD15/DXL
 
 ## 特性
 
